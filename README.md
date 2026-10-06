@@ -1,6 +1,6 @@
-# Tagin Annotation Rule Book v5.0
+# Tagin Annotation Rule Book v5.1
 
-This repository contains the official **Tagin Annotation Rule Book (Edition 5.0)** and related linguistic resources for the Tani Corpus.
+This repository contains the official **Tagin Annotation Rule Book (Edition 5.1, 6 October 2026)** and related linguistic resources for the Tani Corpus.
 
 ## Contents
 
@@ -13,6 +13,15 @@ This repository contains the official **Tagin Annotation Rule Book (Edition 5.0)
    - Adi (`adi_Latn`)
    - Mising (`mrg_Latn`)
    - Hruso / Aka (`hru_Latn`) - A non-Tani language included in the corpus
+
+## What's new in Edition 5.1
+
+Edition 5.1 adds **position tests for `nyi` and `nyii`** (section 11.1, rulings R45–R48), drawn from a review of all 9,521 standalone `nyi` in the Tagin–English parallel corpus:
+
+- Directly after a person's name, a pronoun or a kinship term, it is the object/recipient marker **`nyi`** (`jisu nyi`, `takar nyi`, `bunu nyi`).
+- Wherever it stands as a noun, it is **`nyii`** "person, people": at the start of a clause; before a quantifier or plural (`mvnwng`, `hvdwa`, `kvbi`, `ako`, `angv`), a case or topic particle (`v`, `hv`, `gv`, `nga`), a determiner or a number; at the end of a sentence; and after a `-nv` word, a possessive or `kvvbi` "other".
+
+No earlier rule is reversed, so data prepared under edition 5.0 needs only these checks.
 
 ## About the Tagin Annotation Rule Book
 
